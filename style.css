@@ -268,7 +268,7 @@ h1 {
     z-index: 1;
 }
 
-.btn {
+.botao {
     padding: 1rem 2.5rem;
     background: rgba(255, 255, 255, 0.05);
     color: white;
@@ -301,7 +301,7 @@ h1 {
   }
 }
 
-.btn:hover {
+.botao:hover {
     background: rgba(255, 255, 255, 0.55);
     color: black;
     box-shadow: 0 0 20px rgba(255, 255, 255, 0.4);
