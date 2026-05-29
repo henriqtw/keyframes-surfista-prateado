@@ -118,7 +118,7 @@ nav a:hover {
     }
 }
 
-#loading-screen {
+#loading-tela {
     position: fixed;
     inset: 0;
     background-color: #050505;
@@ -143,7 +143,7 @@ nav a:hover {
     }
 }
 
-.loading-title {
+.loading-titulo {
     font-size: clamp(2rem, 6vw, 4rem);
     font-weight: 700;
     letter-spacing: -1px;
@@ -154,7 +154,7 @@ nav a:hover {
     margin-bottom: 8px;
 }
 
-.loading-sub {
+.loading-texto {
     font-weight: 300;
     letter-spacing: 8px;
     text-transform: uppercase;
@@ -165,7 +165,7 @@ nav a:hover {
     margin-bottom: 48px;
 }
 
-.progress-track {
+.barra-progresso {
     width: 240px;
     height: 1px;
     background: rgba(255, 255, 255, 0.1);
@@ -176,7 +176,7 @@ nav a:hover {
     margin-bottom: 14px;
 }
 
-.progress-fill {
+.progresso {
     height: 100%;
     background: linear-gradient(90deg, rgba(140, 190, 255, 0.5), rgba(255, 255, 255, 0.9));
     box-shadow: 0 0 8px rgba(180, 220, 255, 0.8);
