@@ -1,5 +1,5 @@
 <h1 align="center">
-  🌌 Keyframes - Surfista Prateado
+   Keyframes - Surfista Prateado
 </h1>
 
 <p align="center">
